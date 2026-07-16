@@ -1,12 +1,10 @@
 # 👩🏻‍💻 Pablo Souza
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full-Stack`**
 
-Sou desenvolvedor frontend com experiência em React e TypeScript, focado na criação de interfaces modernas, intuitivas e eficientes. Antes de atuar com desenvolvimento, trabalhei com infraestrutura de redes, onde adquiri conhecimento prático em configuração de ambientes, resolução de problemas e protocolos como OSPF, MPLS, L2L e tunelamento.
-Também tenho vivência na área de segurança da informação, com foco em gestão de acessos via Active Directory e uso de ferramentas como ArcSight e Zabbix para monitoramento e análise.
-Gosto de aprender coisas novas, enfrentar desafios e colaborar com equipes multidisciplinares.
+Sou um desenvolvedor fullstack e, atualmente, trabalho com transações bancárias que seguem as normas PCI. No backend, trabalho com Java (Spring Boot e Quarkus), e no frontend, com React e TypeScript. Comecei minha carreira em redes e segurança da informação, o que me proporcionou uma base sólida em infraestrutura e monitoramento. Atualmente, estou continuamente buscando novas tecnologias para aprender e participar de novos projetos.
 
-Linkedin - "[Pablo Souza](https://www.linkedin.com/in/pablo-gabriel-1b9913181/)",
+LinkedIn - "[Pablo Souza](https://www.linkedin.com/in/pablo-gabriel-1b9913181/)",
 
 
 ---
@@ -77,26 +75,44 @@ Linkedin - "[Pablo Souza](https://www.linkedin.com/in/pablo-gabriel-1b9913181/)"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring"
+    title="Spring" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Quarkus"
+    title="Quarkus" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" 
+/>
+
 
 <br/>
 <br/>
 
 ### 📊 Estatísticas
-
+<br/>
 <p>
+    
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=pablosouza176&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosouza176&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  align="left" 
+  alt="GitHub Streak" 
+  height="200" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=pablosouza176&theme=tokyonight" 
+/>
 
 </p>
